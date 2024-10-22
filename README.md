@@ -13,3 +13,11 @@ cara running aplikasi =
   1. buka/open terminal baru di visual studio code,
   2. ketik "cd client" untuk menuju direktori atau folder client
   3. lalu ketik "npm run dev" untuk mulai menjalankan sisi frontend dari aplikasi todo-list ini.
+
+note :
+
+untuk file _.env_ pada folder server, isi nya disesuaikan dengan konfigurasi akun postgresql masing-masing. contohnya :
+{ 
+  DATABASE_URL=postgresql://(username_postgres):(password_postgres)@localhost:5432/(nama_db)
+  PORT=3001
+}
