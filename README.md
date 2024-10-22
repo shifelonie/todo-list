@@ -1,3 +1,5 @@
+```PROJECT FOR MY SCHOOL TASK```
+
 Aplikasi todo-list ini dibuat dengan menggunakan React (Typescript), Vite serta TailwindCSS untuk frontend nya,
 ExpressJS untuk backend nya, serta database yang digunakan untuk pembuatan aplikasi todo-list ini adalah PostgreSQL.
 
