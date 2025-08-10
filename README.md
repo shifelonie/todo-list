@@ -3,6 +3,11 @@
 Aplikasi todo-list ini dibuat dengan menggunakan React (Typescript), Vite serta TailwindCSS untuk frontend nya,
 ExpressJS untuk backend nya, serta database yang digunakan untuk pembuatan aplikasi todo-list ini adalah PostgreSQL.
 
+App Features: 
+1. Add, Edit, Delete Tasks
+2. Mark a task as finished
+3. Filter tasks by its completion status
+
 cara running aplikasi =
 
   backend :
