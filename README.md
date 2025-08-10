@@ -6,7 +6,7 @@ ExpressJS untuk backend nya, serta database yang digunakan untuk pembuatan aplik
 App Features: 
 1. Add, Edit, Delete Tasks
 2. Mark a task as finished
-3. Filter tasks by its completion status
+3. Filter tasks by their completion status
 
 cara running aplikasi =
 
